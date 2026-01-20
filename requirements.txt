@@ -10,4 +10,6 @@ uvicorn
 flask==3.1.1
 sentence-transformers==4.1.0
 python-dotenv==1.1.0
+langchain-groq
+python-multipart
 -e .
